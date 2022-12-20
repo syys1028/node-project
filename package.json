@@ -1,0 +1,19 @@
+{
+  "name": "nodejs_new",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mariadb": "^3.0.2",
+    "mysql": "github:mysqljs/mysql",
+    "sanitize-html": "^2.8.0"
+  }
+}
